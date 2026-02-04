@@ -53,7 +53,7 @@ python screenshot.py
 
 ## Notes [RECOMMENDED]
 
-- Hardcoded path: `/home/panda/Documents/python_learning/python/project01/screenshotData/`
+- Hardcoded path: `/home/panda/Documents/python_learning/python/screenshotAPP_CLI/screenshotData/`
 - Modify path in script for different systems
 - Ensure `screenshotData` folder exists or has write permissions
 
