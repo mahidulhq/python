@@ -30,16 +30,3 @@ dpkg -l | grep python3-venv         # [OK] if installed
 which python                        # MUST: .../new_project/venv/bin/python
 pip list                            # Shows ONLY venv packages
 ```
-
-
-## .gitignore (CREATE THIS FILE)
-
-```
-venv/
-__pycache__/
-*.pyc
-.env
-test.png
-.screenshot.png
-.DS_Store
-```
