@@ -1,5 +1,5 @@
 
-## Virtual Environment Setup (Linux Mint)
+## Virtual Environment Setup (Linux)
 
 ```
 1. mkdir new_project && cd new_project
